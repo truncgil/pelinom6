@@ -1,0 +1,22 @@
+.search-btn-p {
+    padding: 7px 5px 4px 5px !important;
+}
+
+.main-icons {
+    top: 5px;
+}
+.table td {
+	padding:0px 5px;
+}
+.table td input,.table .select2-selection,.table td select {
+	border:none;
+	background:none;
+}
+
+.table td input,.table td select{
+	min-width:150px;
+}
+.table .btn {
+	margin:3px;
+	font-size:12px;
+}
